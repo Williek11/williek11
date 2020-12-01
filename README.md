@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+I am Williek, and I am your everyday GitHub user! I just do a couple things sometimes, and go back doing my business.
+If you want to reach to me, you can use my Discord: Williek#5873.
 
 <!--
 **Williek11/williek11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
